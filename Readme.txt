@@ -1,1 +1,3 @@
-Proyecto Argentina Programa curso "Primeros pasos del desarrollo frontend"
+# Proyecto Argentina Programa
+curso: _"Primeros pasos del desarrollo frontend"_
+## Alumno: Coronel Francisco Exequiel
